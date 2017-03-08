@@ -15,3 +15,16 @@
   background-color:#5555cc;
   height: 400px;
 }
+
+.experience {
+  padding: 5%;
+  background-color:#11aa11;
+  height: 400px;
+}
+
+.education {
+  padding: 5%;
+  background-color:#885522;
+  color:white;
+  height: 400px;
+}
