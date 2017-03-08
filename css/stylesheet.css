@@ -3,3 +3,9 @@
   background-image: url("../images/stardust.png");
   color:white;
 }
+
+.projects {
+  padding: 5%;
+  background-color:#000033;
+  color:white;
+}
